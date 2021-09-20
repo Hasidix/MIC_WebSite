@@ -1,7 +1,7 @@
 
-## Description:
+# Description
 
-Web Site: Smart and Connected Mine project
+## Web Site: Smart and Connected Mine project
 
 Showcase site: Presentative site whose goal is to bring an online presence
 to the “Connected Smart Mine" project.
@@ -11,7 +11,7 @@ relating to the MIC project.
 
 
 
-## Instructions
+# Instructions
 
 1. Install PHP
 2. In the file php.ini, change the line ;extension=gd to extension=gd
