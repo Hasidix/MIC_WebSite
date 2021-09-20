@@ -28,4 +28,10 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 
+## Instructions
 
+1. Install PHP
+2. In the file php.ini, change the line ;extension=gd to extension=gd
+3. Install Composer
+4. Install MySQL
+5. Launch the command php artisan serve
