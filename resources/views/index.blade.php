@@ -107,7 +107,7 @@
                     <h3 class="sidebar-title">Rechercher</h3>
                     <div class="sidebar-item search-form">
                         <form action="\actualites" method="get">
-                            <input type="text" name="q" placeholder="rechercher une actualité">
+                            <input type="text" name="q" placeholder="Rechercher une actualité">
                             <button type="submit"><i class="icofont-search"></i></button>
                         </form>
                     </div>

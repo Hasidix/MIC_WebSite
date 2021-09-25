@@ -50,7 +50,7 @@
                                 <h3 class="p-4">
                                     text
                                 </h3>
-                                <h1 class="p-3">Objective</h1>
+                                <h1 class="p-3">Objectifs</h1>
                                 <h3 class="p-4">
                                     text
 

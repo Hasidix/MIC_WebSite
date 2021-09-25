@@ -49,7 +49,7 @@
                             <h3 class="p-4">
                                 Chaque phase de la production métallurgique nécessite un pilotage à travers des capteurs et des actionneurs. Une des phases les plus compliquées est le processus de la flottation, où on doit assurer la stabilité des concentrations des minerais flottés. Cette procédure de contrôle des concentrations au niveau de la mousse de flottation doit être en temps réel.
                             </h3>
-                            <h1 class="p-3">Objective</h1>
+                            <h1 class="p-3">objectifs</h1>
                             <h3 class="p-4">
                                 Notre objective est de trouver une solution utilisable 24 heures sur 24 dans toutes les unités de flottation, moins coûteuse, qui donne des résultats en temps réel et pourraient donner des informations importantes sur la situation des minéraux dans les cellules de flottation ce qui nous donne le pouvoir de prédire et réagir instantanément au changements de la chaîne de productions.
                             </h3>
@@ -77,25 +77,25 @@
                     <div class="member">
                         <h2 class="pb-5">Equipe</h2>
                         <div class="member-info">
-                            <h4>ABDELWAHED El Hassan</h4>
+                            <h4>Pr. El Hassan ABDELWAHED</h4>
                             <span>Directeur de thèse</span>
-                            <span>Professeur en Informatique au laboratoire LISI, FSSM, UCA Marrakech</span>
-                            <h4>KHALIL Abdessamad</h4>
+                            <span>Professeur, Département informatique, laboratoire LISI, FSSM, UCA Marrakech</span>
+                            <h4>Pr. Abdessamad KHALIL</h4>
                             <span>Co-directeur de thèse</span>
                             <span>Professeur en sciences des matériaux à l’ENSMR</span>
-                            <h4>QASSIMI Sara</h4>
+                            <h4>Pr. Sara QASSIMI </h4>
                             <span>Co-directeur de thèse</span>
                             <span>ofesseur en Informatique au laboratoire L2SI, FSTG, UCA Marrakech</span>
-                            <h4>BOUSSETTA Abdelmalek</h4>
+                            <h4>M. Abdelmalek BOUSSETTA </h4>
                             <span>Encadrant Reminex</span>
                             <span>Directeur du centre des analyses (MANAGEM)</span>
-                            <h4>BENHAYOUN Abderrahmane</h4>
+                            <h4>M. Abderrahmane BENHAYOUN </h4>
                             <span>Encadrant Reminex</span>
                             <span>Responsable systèmes informatiques (MANAGEM)</span>
-                            <h4>AMAR Oumkeltoum</h4>
+                            <h4>Mme. Oumkeltoum AMAR </h4>
                             <span>Encadrante ingénieur imagerie (MASciR)</span>
-                            <h4>BENDAOUIA Ahmed</h4>
-                            <span>PhD student à l’université Cadi Ayyad</span>
+                            <h4>Ph.D Ahmed BENDAOUIA </h4>
+                            <span>PhD student, Département informatique, laboratoire LISI, FSSM, UCA Marrakech</span>
                         </div>
                     </div>
                 </div>

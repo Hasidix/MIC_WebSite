@@ -54,7 +54,7 @@
                             <div class="entry-img text-center pb-3" >
                                 <img src="<?php echo url('/'); ?>/img/realisations/these_2/2.jpg" alt="" class="img-fluid">
                             </div>
-                            <h1 class="p-3">Objective</h1>
+                            <h1 class="p-3">Objectifs</h1>
                             <h3 class="p-4">
                                 Un Digital Twin peut être défini comme le modèle (réplique) numérique d’un objet réel. Il permet de superviser d’une manière dynamique les états et le fonctionnement  de l’objet réel (physique) auquel il est attaché. Ceci en se basant sur les données issues en temps réel de ce même objet réel permettant ainsi au jumeau numérique d’imiter et de guider l’objet réel qu’il modélise.
                                 Le cycle de communication entre le Digital Twin et son objet réel qu’il imite (physique) met en évidence le profond potentiel du jumeau numérique : des milliers de capteurs prennent des mesures en continu qui sont transmises à une plateforme numérique qui, à son tour, effectue ses analyses et ses prédictions en temps quasi réel et propose éventuellement des optimisations nécessaires pour une performance optimal, de plus le Digital Twin renvoie des actions à l’objet réel (physique) en termes de raffinement et d'amélioration grâce à des actuateurs.
@@ -87,16 +87,21 @@
                     <div class="member">
                         <h2 class="pb-5">Equipe</h2>
                         <div class="member-info">
-                            <h4>ABDELWAHED El Hassan</h4>
+                        <h4>Pr. El Hassan ABDELWAHED</h4>
                             <span>Directeur de thèse</span>
-                            <span>Professeur en Informatique au laboratoire LISI, FSSM, UCA Marrakech</span>
-                            <h4>BAINA Salah</h4>
-                            <h4>QAZDAR Aimad</h4>
-                            <h4>BOURZEIX François</h4>
-                            <h4>KRAFI Mohammed</h4>
-                            <h4>BOULAAMAIL Abdellah</h4>
-                            <h4>HASIDI Oussama</h4>
-                            <span>PhD student à l’université Cady Ayyad</span>
+                            <span>Professeur, Département informatique, laboratoire LISI, FSSM, UCA Marrakech</span>
+                            <h4>Pr. Salah BAINA </h4>
+                            <span>Professeur, Département informatique, ENSIAS</span>
+                            <h4>Pr. Aimad QAZDAR </h4>
+                            <span>Professeur, Département informatique, laboratoire LISI, FSSM, UCA Marrakech</span>
+                            <h4>M. François BOURZEIX </h4>
+                            <span>Manager, Département de recherche et dévelopement, MAScIR</span>
+                            <h4>M. Mohammed KRAFI </h4>
+                            <span>Manager, Ingénierie et exploitation d'usines de traitement métallurgique, Group Managem</span>
+                            <h4>M. Abdellah BOULAAMAIL </h4>
+                            <span>Manager, Ingénierie et exploitation d'usines de pilote, Reminex SA</span>
+                            <h4>Ph.D Oussama HASIDI</h4>
+                            <span>PhD student, Département informatique, laboratoire LISI, FSSM, UCA Marrakech</span>
                         </div>
                     </div>
                 </div>

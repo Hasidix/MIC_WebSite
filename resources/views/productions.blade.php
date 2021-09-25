@@ -67,7 +67,7 @@
                       <h3 class="sidebar-title">Rechercher</h3>
                       <div class="sidebar-item search-form">
                           <form action="\productions" method="get">
-                              <input type="text" name="q" placeholder="rechercher une production" value="{{$search_text}}">
+                              <input type="text" name="q" placeholder="Rechercher une production" value="{{$search_text}}">
                               <button type="submit"><i class="icofont-search"></i></button>
                           </form>
                       </div>

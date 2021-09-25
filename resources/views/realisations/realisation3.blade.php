@@ -52,7 +52,7 @@
                               <div class="entry-img text-center pb-3">
                                   <img src="<?php echo url('/'); ?>/img/realisations/these_3/2.jpg" alt="" class="img-fluid h-auto">
                               </div>
-                              <h1 class="p-3">Objective</h1>
+                              <h1 class="p-3">Objectifs</h1>
                               <h3 class="p-4">
                                   Valorisation des ressources minérales à faible teneur par la mise en œuvre d’une technologie de tri.
                               </h3>

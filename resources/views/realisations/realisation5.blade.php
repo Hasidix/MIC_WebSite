@@ -50,7 +50,7 @@
                                 <h3 class="p-4">
                                     L’amélioration de la Sécurité des personnels dans la mine souterraine est un enjeu quotidien critique. En effet, une cause majeure d’accidents mortels dans la mine est la circulation d’engins miniers et de personnels sur des espaces communs. La mine est dotée de nombreux engins qui ne permettent pas aux équipes opérationnelles d’avoir à tout moment la visibilité nécessaire et la maîtrise des espaces de travail en termes de circulation (du fait du manque de visibilité ou de présence de poussières). Cela génère des accidents avec des risques importants sur la santé des personnels.
                                 </h3>
-                                <h1 class="p-3">Objective</h1>
+                                <h1 class="p-3">Objectifs</h1>
                                 <h3 class="p-4">
                                     Cette thèse utilisera différents types de capteurs et développera des algorithmes d’intelligence artificielle à base de machine learning et deep learning afin de prévenir les accidents entre engins miniers et opérateurs et ainsi améliorer la sécurité des personnels de la mine.
                                 </h3>

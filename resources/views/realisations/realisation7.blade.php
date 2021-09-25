@@ -55,7 +55,7 @@
                                 <div class="entry-img text-center pb-3">
                                     <img src="<?php echo url('/'); ?>/img/realisations/these_7/2.jpg" alt="" class="img-fluid align-self-center">
                                 </div>
-                                <h1 class="p-3">Objective</h1>
+                                <h1 class="p-3">Objectifs</h1>
                                 <h3 class="p-4">
                                     L’optimisation de la consommation énergétique de la mine, par le développement d’un digital twin basé sur l’intelligence artificielle pour la gestion de l’énergie sur un site minier pilote.
                                 </h3>

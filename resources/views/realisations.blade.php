@@ -43,7 +43,9 @@
           <div class="col-sm-12 col-md-10 entries">
               <div class="pb-5 mb-2">
                   <h3>
-                      Après des années de brainstorming et d’étude d’une vingtaine de problématiques dans la chaîne de production minière. Le comité de pilotage du projet Mine intelligente connectée a donné lieu à sept objectifs qui feront naissance à des réalisations industrielles innovantes, des publications scientifiques au domaine de l’industrie 4.0 et des opportunités pour les jeunes marocains afin de monter en compétences en digitalisation du secteur industrielle au Maroc et en Afrique. Ces réalisations seront pilotées par un ensemble d'équipes d’experts en industrie et des professeurs chercheurs en informatique et en sciences des matériaux à travers sept sujets de thèses.
+                      <p> Après des années de brainstorming et d’étude d’une vingtaine de problématiques dans la chaîne de production minière. Le comité de pilotage du projet Mine intelligente connectée a donné lieu à sept objectifs qui feront naissance à des réalisations industrielles innovantes, des publications scientifiques au domaine de l’industrie 4.0 et des opportunités pour les jeunes marocains afin de monter en compétences en digitalisation du secteur industrielle au Maroc et en Afrique. </p>
+                      
+                      <p> Ces réalisations seront pilotées par un ensemble d'équipes d’experts en industrie et des professeurs chercheurs en informatique et en sciences des matériaux à travers sept sujets de thèses: </p>
                   </h3>
               </div>
                 <article class="entry">
@@ -102,7 +104,7 @@
                       </div>
                       <div class="col-sm-10 col-md-8">
                           <h2 class="entry-title px-4">
-                              <a href="\realisations\3">Développement des méthodes de technologie</a>
+                              <a href="\realisations\3">Prototype de tri pour la valorisation des ressources minérales</a>
                           </h2>
                           <div class="entry-content">
                               <h4>
